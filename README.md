@@ -50,3 +50,5 @@ transfer data between the tracking activity and the summary activity.
 3. Location API, including the FusedLocationProviderClient, is used to
 access the user’s location to calculate the distance travelled.
 4. GoogleMaps to display a live map which tracks the user in real time.
+
+![Alt text](https://raw.githubusercontent.com/Ashreyagit/Walk-Calorie-Tracker-Android-App/main/Screenshot_2021-12-16-10-09-18-138_com.example.tracker.jpg?raw=true "Optional Title")
